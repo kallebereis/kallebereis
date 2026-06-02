@@ -39,11 +39,9 @@ Estou construindo minha base em **código limpo, boas práticas e interfaces bem
 
 ## 📊 Status GitHub
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kallebereis&theme=tokyonight)
-
 <p align="left">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kallebereis&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kallebereis&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kallebereis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallebereis&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
