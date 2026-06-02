@@ -39,11 +39,11 @@ Estou construindo minha base em **código limpo, boas práticas e interfaces bem
 
 ## 📊 Status GitHub
 
-<p align="left">
+<p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kallebereis&theme=tokyonight" />
 </p>
 
-<p align="left">
+<p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kallebereis&theme=tokyonight" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kallebereis&theme=tokyonight" />
 </p>
