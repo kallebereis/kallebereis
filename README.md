@@ -40,8 +40,8 @@ Estou construindo minha base em **código limpo, boas práticas e interfaces bem
 ## 📊 Status GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kallebereis&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallebereis&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kallebereis&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallebereis&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
