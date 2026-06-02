@@ -39,13 +39,9 @@ Estou construindo minha base em **código limpo, boas práticas e interfaces bem
 
 ## 📊 Status GitHub
 
-<p align="left">
-  <img width="49%" src="https://streak-stats.demolab.com?user=kallebereis&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kallebereis&theme=tokyonight" />
-</p>
+![](https://streak-stats.demolab.com?user=kallebereis&theme=tokyonight&hide_border=true&card_width=800)
 
 ---
-
 
 ## O que você pode esperar de mim
 
