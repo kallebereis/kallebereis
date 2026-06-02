@@ -39,7 +39,7 @@ Estou construindo minha base em **código limpo, boas práticas e interfaces bem
 
 ## 📊 Status GitHub
 
-![](https://streak-stats.demolab.com?user=kallebereis&theme=tokyonight&hide_border=true&card_width=810)
+![](https://streak-stats.demolab.com?user=kallebereis&theme=tokyonight&hide_border=true&card_width=800)
 
 ---
 
